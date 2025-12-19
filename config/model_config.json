@@ -1,0 +1,10 @@
+{
+    "img_size": 32,
+    "num_channels": 3,
+    "patch_size": 8,
+    "token_dim": 256,
+    "num_heads": 16,
+    "transformer_blocks": 16,
+    "num_classes": 100,
+    "mlp_hidden_dim": 3072
+}
