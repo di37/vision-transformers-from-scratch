@@ -68,3 +68,9 @@ Modify `config/training_config.json` for training parameters:
 ### Training
 
 You can run the Jupyter Notebook `pre_training_evaluation.ipynb` for an interactive experience.
+
+## Credits
+
+This project is inferred from the tutorial by **Vizuara channel** on YouTube.
+-   **Instructor**: Dr. Sreedath Panat
+-   **Video Tutorial**: [Build Vision transformer and NanoVLM from scratch](https://youtu.be/e8ZacU9FtDU)
